@@ -1,0 +1,17 @@
+git branch
+git branch -a
+git pull - to update the local branch.
+
+git add - file move to index
+git commit - file move to local repo
+
+git status - to check to status of the clone
+
+git checkout --fileName - discard the changes
+
+git reset Head fileName -  to move a file back to local from index...
+
+git commit -a : for directly commiting file instead of doing "Add"...only if that file is already there in git repo
+
+git clean -df : to remove unwanted file like merged and all
+

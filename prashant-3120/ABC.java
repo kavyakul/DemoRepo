@@ -1,3 +1,4 @@
-ipublic class ABC{
+public class ABC{
+	private String test;
 
 }
